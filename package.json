@@ -1,0 +1,22 @@
+{
+  "name": "lasapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maggonageLasantha/lasAPi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maggonageLasantha/lasAPi/issues"
+  },
+  "homepage": "https://github.com/maggonageLasantha/lasAPi#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
